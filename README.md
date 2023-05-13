@@ -3,7 +3,7 @@
 印尼语常用单词及中文解释、例句   
 Commonly used Indonesian words with Chinese explanations and example sentences
 
-## 使用说明
+## 使用
 
 请直接下载 [dictionary.json](https://github.com/fireindark707/indonesian-common-words/blob/main/dictionary.json) , 可以用各类型文本编辑器打开阅读（浏览器也可以）。   
 栏位：
