@@ -8,7 +8,7 @@ Commonly used Indonesian words with Chinese explanations and example sentences
 请直接下载 `dictionary.json`, 可以用各类型文本编辑器打开阅读（浏览器也可以）。
 
 例子：
-`
+```
 "bahas": {
     "word": "bahas",
     "meaning": "讨论；解释",
@@ -45,4 +45,4 @@ Commonly used Indonesian words with Chinese explanations and example sentences
     ],
     "rank": 4
 },
-`
+```
