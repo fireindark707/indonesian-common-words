@@ -24091,18 +24091,6 @@
         ],
         "rank": 1994
     },
-    "rudal": {
-        "word": "rudal",
-        "meaning": "导弹",
-        "explanation": "rudal是印尼文中的一个名词，指的是一种可以自主或被控制地飞行，能够在空中攻击目标的武器。",
-        "examples": [
-            "军队使用rudal攻击了敌方基地。 (Pasukan menggunakan rudal menyerang pangkalan musuh.)",
-            "这种rudal可以精确打击目标。 (Rudal ini dapat menyerang sasaran secara akurat.)",
-            "该国最新的rudal可以飞行数千公里。 (Rudal terbaru negara itu dapat terbang ribuan kilometer.)",
-            "这个国家的rudal技术处于领先地位。 (Teknologi rudal negara ini berada di posisi terdepan.)"
-        ],
-        "rank": 1996
-    },
     "berbahan": {
         "word": "berbahan",
         "meaning": "由…制成的",
@@ -24114,6 +24102,18 @@
             "这个房子是由砖头和水泥制成的。 (Rumah ini berbahan batu bata dan semen.)"
         ],
         "rank": 1995
+    },
+    "rudal": {
+        "word": "rudal",
+        "meaning": "导弹",
+        "explanation": "rudal是印尼文中的一个名词，指的是一种可以自主或被控制地飞行，能够在空中攻击目标的武器。",
+        "examples": [
+            "军队使用rudal攻击了敌方基地。 (Pasukan menggunakan rudal menyerang pangkalan musuh.)",
+            "这种rudal可以精确打击目标。 (Rudal ini dapat menyerang sasaran secara akurat.)",
+            "该国最新的rudal可以飞行数千公里。 (Rudal terbaru negara itu dapat terbang ribuan kilometer.)",
+            "这个国家的rudal技术处于领先地位。 (Teknologi rudal negara ini berada di posisi terdepan.)"
+        ],
+        "rank": 1996
     },
     "sudut": {
         "word": "sudut",
@@ -24160,6 +24160,18 @@
             "请把这些小物品放在一个袋子里。 (Tolong letakkan benda-benda kecil ini dalam sebuah kantong.)",
             "这个博物馆里展示了很多古代文化遗物。 (Museum ini menampilkan banyak benda peninggalan budaya kuno.)",
             "我需要买一些日常用品，比如牙膏、洗发水等等。 (Saya perlu membeli beberapa benda kebutuhan sehari-hari, seperti pasta gigi, sampo, dan sebagainya.)"
+        ],
+        "rank": 1999
+    },
+    "ilustrasi": {
+        "word": "ilustrasi",
+        "meaning": "插图；图示；示例",
+        "explanation": "在印尼文中，ilustrasi是一个名词，可以表示“插图”、“图示”或“示例”的意思。它通常用于书籍、报纸、杂志或演示文稿中，以帮助读者更好地理解文章或概念。",
+        "examples": [
+            "这本书有很多漂亮的插图。 (Buku ini memiliki banyak ilustrasi yang indah.)",
+            "这个概念可以用一个图示来解释。 (Konsep ini dapat dijelaskan dengan ilustrasi.)",
+            "这篇文章需要一些示例来支持观点。 (Artikel ini memerlukan beberapa ilustrasi untuk mendukung pandangan.)",
+            "演示文稿中的每个章节都有一个图示。 (Setiap bab dalam presentasi memiliki satu ilustrasi.)"
         ],
         "rank": 1999
     }
