@@ -57,7 +57,7 @@ Commonly used Indonesian words with Chinese explanations and example sentences
 ## 制作方法
 
 1. 语料来自KASKUS（印尼网络论坛），包括新闻、娱乐、故事、食物旅游四个板块的共11000则帖文。每则帖文的标题、内容和留言被纳入语料计算。
-2. 词语以空格进行切分，去除常见标点符号后筛选3个及以上字符长度的单词计算词频。单词总量786万。
+2. 词语以空格进行切分，去除常见标点符号后筛选3个及以上字符长度的单词计算词频。单词总量786万。词频计算后的所有单词排序为 [all_words.txt](https://github.com/fireindark707/indonesian-common-words/blob/main/all_words.txt)
 3. 中文解释及例句由ChatGPT提供。
 
 ## 说明
