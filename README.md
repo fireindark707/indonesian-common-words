@@ -5,7 +5,13 @@ Commonly used Indonesian words with Chinese explanations and example sentences
 
 ## 使用说明
 
-请直接下载 `dictionary.json`, 可以用各类型文本编辑器打开阅读（浏览器也可以）。
+请直接下载 `dictionary.json`, 可以用各类型文本编辑器打开阅读（浏览器也可以）。   
+栏位：
+- word：印尼文原词语
+- meaning：中文词意
+- explanation：词性解释及使用说明
+- examples：例句及中文翻译
+- rank：词频排序，数字越小代表词频越高，越应该优先掌握
 
 例子：
 ```
@@ -46,3 +52,14 @@ Commonly used Indonesian words with Chinese explanations and example sentences
     "rank": 4
 },
 ```
+## 制作方法
+
+1. 语料来自KASKUS，包括新闻、娱乐、故事、食物旅游四个板块的共11000则帖文。每则帖文的标题、内容和留言被纳入语料计算。
+2. 词语以空格进行切分，去除常见标点符号后筛选3个及以上字符长度的单词计算词频。
+3. 中文解释及例句由ChatGPT提供。
+
+## 说明
+
+1. 单词表经过印尼朋友确认，绝大多数例句都是正确的，单词词频也符合日常使用。
+2. 例句中常见的Saya为正式表达，日常使用Aku比较好。
+3. 三个字符长度的单词许多是缩写，如果不想学习这部分可直接略过，只看4个字符以上长度的单词。
