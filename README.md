@@ -13,6 +13,8 @@ Commonly used Indonesian words with Chinese explanations and example sentences
 - examples：例句及中文翻译
 - rank：词频排序，数字越小代表词频越高，越应该优先掌握
 
+目前收录高频词语前2000单词，会逐渐扩充。
+
 例子：
 ```
 "bahas": {
@@ -54,8 +56,8 @@ Commonly used Indonesian words with Chinese explanations and example sentences
 ```
 ## 制作方法
 
-1. 语料来自KASKUS，包括新闻、娱乐、故事、食物旅游四个板块的共11000则帖文。每则帖文的标题、内容和留言被纳入语料计算。
-2. 词语以空格进行切分，去除常见标点符号后筛选3个及以上字符长度的单词计算词频。
+1. 语料来自KASKUS（印尼网络论坛），包括新闻、娱乐、故事、食物旅游四个板块的共11000则帖文。每则帖文的标题、内容和留言被纳入语料计算。
+2. 词语以空格进行切分，去除常见标点符号后筛选3个及以上字符长度的单词计算词频。单词总量786万。
 3. 中文解释及例句由ChatGPT提供。
 
 ## 说明
@@ -63,3 +65,29 @@ Commonly used Indonesian words with Chinese explanations and example sentences
 1. 单词表经过印尼朋友确认，绝大多数例句都是正确的，单词词频也符合日常使用。
 2. 例句中常见的Saya为正式表达，日常使用Aku比较好。
 3. 三个字符长度的单词许多是缩写，如果不想学习这部分可直接略过，只看4个字符以上长度的单词。
+
+## 掌握多少印尼语单词是足够的？
+
+以下为词频前n单词在所有文本中的覆盖度（最大为1，数字越大越好）。  
+一般说法认为掌握一篇文章的95%的单词意思，就可以读懂文章内容。也就是说如果要读懂绝大多数KASKUS论坛上的文章和留言，你需要约20000单词量。但是因为印尼语中的前缀后缀变化较多，理解一个词语的部分变化形式就可以推估其它变形下的词意，所以现实学习中应当不需要掌握这么多词语，可能10000单词量左右即可。从下方计算结果可以看出，掌握前4000单词，就可以认识印尼文章中的80%词语，达成初步理解。
+
+Top 1000 words coverage: 0.6113853298140143
+Top 2000 words coverage: 0.7121990875286419
+Top 3000 words coverage: 0.7657901112290777
+Top 4000 words coverage: 0.8012088158739885
+Top 5000 words coverage: 0.82690515550389
+Top 6000 words coverage: 0.8464883238479337
+Top 7000 words coverage: 0.8621900025142841
+Top 8000 words coverage: 0.8751409831359739
+Top 9000 words coverage: 0.8860628499766385
+Top 10000 words coverage: 0.8953767710688354
+Top 11000 words coverage: 0.9033638219968302
+Top 12000 words coverage: 0.9103116948819558
+Top 13000 words coverage: 0.9164275382308601
+Top 14000 words coverage: 0.9218391021053821
+Top 15000 words coverage: 0.9266658658960267
+Top 16000 words coverage: 0.9310107676506305
+Top 17000 words coverage: 0.9349440444549857
+Top 18000 words coverage: 0.9384949617615054
+Top 19000 words coverage: 0.9417144160091695
+Top 20000 words coverage: 0.9446419791792847
